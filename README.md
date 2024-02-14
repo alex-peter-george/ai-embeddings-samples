@@ -14,5 +14,5 @@ Embeddings are commonly used for various tasks such as search (where results are
 
 **A way to match your resume with a job in a multi-job listing**:
 
-![](https://github.com/antongeorgescu/alviandamessagehub-servicebroker/blob/master/Documentation/Message_Broker_Components.png)
+![](https://github.com/alex-peter-george/ai-embeddings-samples/blob/main/assets/embeddings-diagram.jpg)
 
